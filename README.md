@@ -1,7 +1,7 @@
-<b>Note: this project requirement were that it would run on a Flask server (as stated in the rest of the Readme below). This version of the site has been convert as to note need the Flask server. The original repo can be viewed here: https://github.com/nbullerds/Project-2-Healthy-Neighborhoods.
+NOTE: this project requirement were that it would run on a Flask server (as stated in the rest of the Readme below). This version of the site has been convert as to not need the Flask server. The original repo can be viewed here: https://github.com/nbullerds/Project-2-Healthy-Neighborhoods.
 
-View revised version on on GitHub pages:
-</b>
+View revised version on on GitHub pages: https://klharp.github.io/Project-2-Neighborhoods-Dashboard-Live/templates/
+
 
 ---
 
