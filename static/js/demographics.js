@@ -1,7 +1,7 @@
 console.log("demographics.js is loaded");
 
 function DrawDemographics(neighborhood) {
-    d3.csv("/schema/Neighborhoods_data_backup.csv").then(function (data) {
+    d3.csv("../schema/Neighborhoods_data_backup.csv").then(function (data) {
 
         console.log(`DrawDemographics(${neighborhood})`); 
         console.log("Showing all neighborhoodData:");

@@ -21,7 +21,7 @@ function areaClickEvent(event, city, neighborhoodNameProperty) {
 
   // kerry.json('/neighborhoods', function (data) {
   //d3.json("/neighborhoods").then(function (data) {
-  d3.csv("/schema/Neighborhoods_data_backup.csv").then(function (data) {
+  d3.csv("../schema/Neighborhoods_data_backup.csv").then(function (data) {
    
     var myhooddata = data.find(x => x.Neighborhood === neighborhoodName)
 
