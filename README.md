@@ -12,7 +12,7 @@ This dashboard demonstrates how to integrate Flask with HTML and JavaScript code
 
 ![dashboard](static/img/dashboard.png)
 
-## Languages and libraries used:
+Languages and libraries used:
 * Python
 * Pandas
 * Flask
