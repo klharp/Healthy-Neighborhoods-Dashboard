@@ -1,14 +1,9 @@
-NOTE: this project requirement were that it would run on a Flask server (as stated in the rest of the Readme below). This version of the site has been convert as to not need the Flask server. The original repo can be viewed here: https://github.com/nbullerds/Project-2-Healthy-Neighborhoods.
-
-View revised version on on GitHub pages: https://klharp.github.io/Project-2-Neighborhoods-Dashboard-Live/templates/
-
-
----
-
 # Project-2-Healthy-Neighborhoods
 
 
-This dashboard demonstrates how to integrate Flask with HTML and JavaScript code. This project will note run on LiveServer, a Flask server must be used.
+This dashboard demonstrates how to integrate Flask with HTML and JavaScript code to visualize and explore metrics for helping to choose a neighborhood that meets healthy lifestyle requirements. This project originally required to run on a Flask server. For future use to view the project, this version of the site has been convert to not need the Flask server. The original repo can be viewed here: https://github.com/nbullerds/Project-2-Healthy-Neighborhoods.
+
+View revised dashboard on on GitHub pages: https://klharp.github.io/Project-2-Neighborhoods-Dashboard-Live/templates/ 
 
 ![dashboard](static/img/dashboard.png)
 
@@ -18,11 +13,11 @@ Languages and libraries used:
 * Flask
 * SQLAlchemy
 * JSON / GeoJSON
+* D3
+* Javascript
 * HTML
 * CSS
 * Bootstrap
-* D3
-* Javascript / Requests (JSON)
 * Leaflet
 * Plotly
 * AnyChart
